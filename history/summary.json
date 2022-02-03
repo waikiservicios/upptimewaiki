@@ -4,18 +4,20 @@
     "url": "http://odoopruebas.ddns.net/",
     "icon": "https://favicons.githubusercontent.com/odoopruebas.ddns.net",
     "slug": "odoo-pruebas-i",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 778,
-    "timeDay": 778,
-    "timeWeek": 778,
-    "timeMonth": 778,
-    "timeYear": 778,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.92%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 5789,
+    "timeDay": 5789,
+    "timeWeek": 5789,
+    "timeMonth": 5789,
+    "timeYear": 5789,
+    "dailyMinutesDown": {
+      "2022-02-03": 0
+    }
   },
   {
     "name": "Santa Teresa",
@@ -28,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1298,
-    "timeDay": 1298,
-    "timeWeek": 1298,
-    "timeMonth": 1298,
-    "timeYear": 1298,
+    "time": 1297,
+    "timeDay": 1297,
+    "timeWeek": 1297,
+    "timeMonth": 1297,
+    "timeYear": 1297,
     "dailyMinutesDown": {}
   }
 ]
