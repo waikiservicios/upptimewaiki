@@ -2,10 +2,10 @@
 owner: waikiservicios
 repo: upptimewaiki
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
+  - name: Odoo Pruebas I
+    url: http://odoopruebas.ddns.net/
+  - name: Santa Teresa
+    url: http://santateresa.ddns.net:37234/
 
 
 status-website:
