@@ -6,8 +6,6 @@ sites:
     url: http://odoopruebas.ddns.net/
   - name: Santa Teresa
     url: http://santateresa.ddns.net:37234/
-  - name: Waiki ddns
-  - url: http://waikiservicios.ddns.net/
 
 
 status-website:
@@ -23,7 +21,7 @@ status-website:
     - title: Status
       href: /
     - title: GitHub
-      href: https://$OWNER.github.io/$REPO/
+      href: https://$OWNER.github.io/waikipruebas/$REPO/
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
