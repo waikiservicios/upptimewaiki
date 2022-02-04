@@ -6,7 +6,8 @@ sites:
     url: http://odoopruebas.ddns.net/
   - name: Santa Teresa
     url: http://santateresa.ddns.net:37234/
-
+  - name: Waikiddns
+    url: http://waikiservicios.ddns.net/
 
 status-website:
   # Add your custo domain name, or remove the `cname` line if you don't have a domain
