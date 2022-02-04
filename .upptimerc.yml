@@ -6,6 +6,8 @@ sites:
     url: http://odoopruebas.ddns.net/
   - name: Santa Teresa
     url: http://santateresa.ddns.net:37234/
+  - name: Waiki.ddns
+  - url: http://waikiservicios.ddns.net/
 
 
 status-website:
