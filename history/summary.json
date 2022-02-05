@@ -4,18 +4,19 @@
     "url": "http://odoopruebas.ddns.net/",
     "icon": "https://favicons.githubusercontent.com/odoopruebas.ddns.net",
     "slug": "odoo-pruebas-i",
-    "status": "up",
-    "uptime": "95.69%",
-    "uptimeDay": "97.18%",
-    "uptimeWeek": "95.69%",
-    "uptimeMonth": "95.69%",
-    "uptimeYear": "95.69%",
+    "status": "down",
+    "uptime": "97.67%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "97.67%",
+    "uptimeMonth": "97.67%",
+    "uptimeYear": "97.67%",
     "time": 2931,
-    "timeDay": 788,
+    "timeDay": 731,
     "timeWeek": 2931,
     "timeMonth": 2931,
     "timeYear": 2931,
     "dailyMinutesDown": {
+      "2022-02-05": 1,
       "2022-02-04": 62,
       "2022-02-03": 4
     }
@@ -32,7 +33,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1325,
-    "timeDay": 1344,
+    "timeDay": 1342,
     "timeWeek": 1325,
     "timeMonth": 1325,
     "timeYear": 1325,
@@ -43,17 +44,19 @@
     "url": "http://waikiservicios.ddns.net/",
     "icon": "https://favicons.githubusercontent.com/waikiservicios.ddns.net",
     "slug": "waikiddns",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 754,
-    "timeDay": 754,
+    "timeDay": 763,
     "timeWeek": 754,
     "timeMonth": 754,
     "timeYear": 754,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-05": 0
+    }
   }
 ]
