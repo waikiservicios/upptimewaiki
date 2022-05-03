@@ -2,6 +2,8 @@
 owner: waikiservicios
 repo: upptimewaiki
 sites:
+  -name: Casa Solari
+    url: http://144.217.5.19:27938/
   - name: Odoo Pruebas I
     url: http://odoopruebas.ddns.net/
   - name: Santa Teresa
